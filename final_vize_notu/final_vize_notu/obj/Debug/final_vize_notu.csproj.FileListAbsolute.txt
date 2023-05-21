@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\bin\Debug\final_vize_notu.exe.config
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\bin\Debug\final_vize_notu.exe
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\bin\Debug\final_vize_notu.pdb
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\obj\Debug\final_vize_notu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\obj\Debug\final_vize_notu.Form1.resources
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\obj\Debug\final_vize_notu.Properties.Resources.resources
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\obj\Debug\final_vize_notu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\obj\Debug\final_vize_notu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\obj\Debug\final_vize_notu.exe
+C:\Users\User\Desktop\Dersler\C#\final_vize_notu\final_vize_notu\obj\Debug\final_vize_notu.pdb
